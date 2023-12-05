@@ -3,10 +3,10 @@ import requests
 import json
 
 db_config = {
-    'user': 'root',
-    'password': 'root',
+    'user': 'tonusername',
+    'password': 'tonpassword',
     'host': 'localhost',
-    'database': 'sneaker_database'
+    'database': 'lenomdetadatabase'
 }
 
 connection = mysql.connector.connect(**db_config)
