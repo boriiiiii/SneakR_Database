@@ -1,9 +1,12 @@
 # SneakR_Database
 
-Just download the database.
+Juste installe.
 
 CSV :
-I's not full but almost
+Elle est pas pleine mais presque
 
 JSON :
-The database is full
+La database est pleine
+
+Python:
+C'est le fichier python qui m'a permis de faire la database si vous voulez faire la même
